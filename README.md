@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Rajak</h1>
 <h3 align="center">Turning Coffee into Code | CSE Student | Tech Explorer Just a Student on a Journey from “Hello World” to the Real World Building My Future, One Commit at a Time 🚀</h3>
-
 - 🔭 I’m currently working on my multiple projects
 - 
 - 🌱 I’m currently learning **python**
